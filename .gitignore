@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# Virtual environments
+env/
+venv/
+ENV/
+venv/
+env/
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+# Unit test / coverage reports
+tox/
+coverage
+cache
+nosetests.xml
+coverage.xml
+# Jupyter Notebook
+ipynb_checkpoints
+# Django/Flask specific
+*.log
+local_settings.py
+db.sqlite3
+instance/
+# IDE-specific files
+.idea/
+vscode/
+logs/
+replay/
+replay*
+logs_*/
+filter.py
+ablation/results

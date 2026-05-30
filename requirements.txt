@@ -1,0 +1,4 @@
+sqlglot>=18.0.0
+pymysql>=1.1.0
+psycopg2-binary>=2.9.9
+pymonetdb>=1.8.5
