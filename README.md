@@ -6,9 +6,9 @@ SchemaMorph is a DBMS testing framework that detects logical bugs via two comple
 
 - **Admissibility-based Oracle:** Creates two tables with identical columns: $S_1$ with stricter constraints (NOT NULL, UNIQUE, CHECK, FK) and $S_2$ with those constraints relaxed. The same INSERT workload is replayed into both; $S_1$ rejects some rows due to constraint violations while $S_2$ accepts all, so $S_1 \subseteq S_2$ holds. The same queries are then executed on both and the same monotonicity assertions are verified.
 
-SchemaMorph supports **MySQL, MariaDB, Percona, TiDB, OceanBase, PolarDB**.
+SchemaMorph supports **MySQL, MariaDB, Percona, OceanBase, PolarDB**.
 
-Up to now, we have found **22** logical bugs across these systems, **18** of which have been confirmed by developers.
+Up to now, we have found **21** logical bugs across these systems, **18** of which have been confirmed by developers.
 
 ---
 
