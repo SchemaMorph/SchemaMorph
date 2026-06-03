@@ -18,14 +18,14 @@ Up to now, we have found **21** logical bugs across these systems, **18** of whi
 
 | ID | DB_Name | Issue | Status |
 |----|-------|-------|--------|
-| 1 | Mysql | https://bugs.mysql.com/bug.php?id=120158 | Confirmed |
-| 2 | Mysql | https://bugs.mysql.com/bug.php?id=120253 | Confirmed |
-| 3 | Mysql | https://bugs.mysql.com/bug.php?id=120275 | Confirmed |
-| 4 | Mysql | https://bugs.mysql.com/bug.php?id=120284 | Confirmed |
-| 5 | Mysql | https://bugs.mysql.com/bug.php?id=120296 | Confirmed |
-| 6 | Mysql | https://bugs.mysql.com/bug.php?id=120524 | Confirmed |
-| 7 | Mysql | https://bugs.mysql.com/bug.php?id=120525 | Confirmed |
-| 8 | Mysql | https://bugs.mysql.com/bug.php?id=120285 | Pending |
+| 1 | MySQL | https://bugs.mysql.com/bug.php?id=120158 | Confirmed |
+| 2 | MySQL | https://bugs.mysql.com/bug.php?id=120253 | Confirmed |
+| 3 | MySQL | https://bugs.mysql.com/bug.php?id=120275 | Confirmed |
+| 4 | MySQL | https://bugs.mysql.com/bug.php?id=120284 | Confirmed |
+| 5 | MySQL | https://bugs.mysql.com/bug.php?id=120296 | Confirmed |
+| 6 | MySQL | https://bugs.mysql.com/bug.php?id=120524 | Confirmed |
+| 7 | MySQL | https://bugs.mysql.com/bug.php?id=120525 | Confirmed |
+| 8 | MySQL | https://bugs.mysql.com/bug.php?id=120285 | Pending |
 | 9 | Mariadb | https://jira.mariadb.org/browse/MDEV-39553 | Confirmed |
 | 10 | Mariadb | https://jira.mariadb.org/browse/MDEV-39717 | Pending |
 | 11 | Percona | https://perconadev.atlassian.net/browse/PS-11024 | Confirmed |
