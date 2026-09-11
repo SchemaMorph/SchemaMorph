@@ -25,9 +25,9 @@ Up to now, we have found **21** logical bugs across these systems, **18** of whi
 | 5 | MySQL | https://bugs.mysql.com/bug.php?id=120296 | Confirmed |
 | 6 | MySQL | https://bugs.mysql.com/bug.php?id=120524 | Confirmed |
 | 7 | MySQL | https://bugs.mysql.com/bug.php?id=120525 | Confirmed |
-| 8 | MySQL | https://bugs.mysql.com/bug.php?id=120285 | Pending |
+| 8 | MySQL | https://bugs.mysql.com/bug.php?id=120285 | Confirmed |
 | 9 | Mariadb | https://jira.mariadb.org/browse/MDEV-39553 | Confirmed |
-| 10 | Mariadb | https://jira.mariadb.org/browse/MDEV-39717 | Pending |
+| 10 | Mariadb | https://jira.mariadb.org/browse/MDEV-39717 | Confirmed |
 | 11 | Percona | https://perconadev.atlassian.net/browse/PS-11024 | Confirmed |
 | 12 | Percona | https://perconadev.atlassian.net/browse/PS-11025 | Confirmed |
 | 13 | Percona | https://perconadev.atlassian.net/browse/PS-11144 | Confirmed |
@@ -35,7 +35,7 @@ Up to now, we have found **21** logical bugs across these systems, **18** of whi
 | 15 | Percona | https://perconadev.atlassian.net/browse/PS-11148 | Confirmed |
 | 16 | Percona | https://perconadev.atlassian.net/browse/PS-11187 | Confirmed |
 | 17 | Percona | https://perconadev.atlassian.net/browse/PS-11188 | Confirmed |
-| 18 | Oceanbase | https://github.com/oceanbase/oceanbase/issues/2401 | Pending |
+| 18 | Oceanbase | https://github.com/oceanbase/oceanbase/issues/2401 | Confirmed |
 | 19 | Polardb | https://github.com/polardb/polardbx-sql/issues/283 | Confirmed |
 | 20 | Polardb | https://github.com/polardb/polardbx-sql/issues/284 | Confirmed |
 | 21 | Polardb | https://github.com/polardb/polardbx-sql/issues/285 | Confirmed |
