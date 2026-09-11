@@ -40,6 +40,7 @@ Up to now, we have found **21** logical bugs across these systems, **18** of whi
 | 20 | Polardb | https://github.com/polardb/polardbx-sql/issues/284 | Confirmed |
 | 21 | Polardb | https://github.com/polardb/polardbx-sql/issues/285 | Confirmed |
 
+PolarDB bugs were confirmed by PolarDB developers through an internal Alibaba Cloud DingTalk group.
 
 ---
 
